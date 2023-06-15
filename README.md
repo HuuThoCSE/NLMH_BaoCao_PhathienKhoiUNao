@@ -4,7 +4,8 @@
 
 - Sinh viên thực hiện:		
     - Lê Nguyễn Quang Bình	21022010
-    - Nguyễn Hữu Thọ	21022008
+    - Nguyễn Hữu Thọ		21022008
+- Trường: Đại học Sư phạm Kỹ thuật Vĩnh Long****
 - Lớp: ĐH. KHMT 2021	
 - Khóa: 2021 - 2025	
 		
