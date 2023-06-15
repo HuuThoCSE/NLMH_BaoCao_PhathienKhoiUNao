@@ -31,7 +31,7 @@
 - [CHƯƠNG 3: PHƯƠNG PHÁP NGHIÊN CỨU](#chương-3-phương-pháp-nghiên-cứu)
 - [CHƯƠNG 4: KẾT QUẢ NGHIÊN CỨU VÀ THỰC NGHIỆM](#chương4-kết-quả-nghiên-cứu-và-thực-nghiệm)
 
-## 7. Cấu trúc đề cương
+## Cấu trúc đề cương
 - Chương 1: Tổng quan đề tài
 - Chương 2: Cơ sở khoa học của đề tài
 - Chương 3: Cơ sở lý thuyết
