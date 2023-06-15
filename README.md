@@ -1,4 +1,4 @@
-# BÁO CÁO
+# BÁO CÁO MÔN HỌC
 ## MÔN: NGUYÊN LÝ MÁY HỌC
 ### ĐỀ TÀI: PHÁT HIỆN KHỐI U NÃO TỪ ẢNH CHỤP CỘNG HƯỞNG TỪ CỦA NÃO
 
